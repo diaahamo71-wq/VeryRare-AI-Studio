@@ -1,0 +1,11 @@
+
+[package]
+name = "veryrare-ai-studio"
+version = "0.1.0"
+edition = "2021"
+description = "A local lo-fi vocal mixing studio for VeryRare"
+
+[dependencies]
+eframe = "0.31"
+rfd = "0.15"
+hound = "3.5"
